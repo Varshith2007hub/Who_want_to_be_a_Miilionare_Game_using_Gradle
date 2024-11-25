@@ -1,0 +1,25 @@
+What keyword is used to declare a variable that won't be modified after its initial assignment?;final;static;mutable;constant;final
+Which operator is used for equality comparison in Java?;==;!=;>;<=;==
+Which Java access modifier allows a class to be accessed from anywhere?;public;private;protected;package-private;public
+What is the result of 10 / 3 in Java?;3;3.33;3.0;4;3
+In Java, what is the keyword used to create a new instance of a class?;new;create;instance;instantiate;new
+Which loop is used for iterating a specific number of times in Java?;for;while;do-while;foreach;for
+What is the default value of a character (char) variable in Java?;null;0;'';undefined;0
+What is the purpose of the else statement in a Java conditional structure?;It defines the condition to be checked.;It specifies the code to execute if the condition is true.;It specifies the code to execute if the condition is false.;It defines a loop.;It specifies the code to execute if the condition is false.
+What is the significance of static keyword?;Dynamic variable modification;Allows method calls without instance creation; Imposes immutability; Signifies uninitialized variables;Allows method calls without instance creation
+What is the purpose of the super keyword in Java?;It is used to call a superclass constructor.;It is used to access a superclass's static members.;It is used to create an instance of the superclass.;It is used to call a method of the superclass.;It is used to call a superclass constructor.
+Which of the following is not a primitive data type in Java?;int;float;char;string;string
+Which keyword is used to implement multiple interfaces in a Java class?;extends;implements;interfaces;extends and implements;implements
+What is the purpose of the StringBuilder class in Java?;To create immutable strings;To create thread-safe strings;To create mutable strings;To create synchronized strings;To create mutable strings
+What is the result of the expression 5 + 7 / 2 in Java?;6;8.5;5.5;9;6
+Purpose of wrapper classes in Java?;Wrap primitives for additional functionality;Exception handling; Define core Java collection functionality;Encapsulate Java application main method;Wrap primitives for additional functionality
+In Java, what is the purpose of the this keyword?;It refers to the current instance of the class.;It is used to access static methods.;It represents the superclass instance.;It is used for garbage collection.;It refers to the current instance of the class.
+Which keyword is used to explicitly throw an exception in Java?;throw;catch;try;finally;throw
+Which collection class allows null values in Java?;HashSet;TreeMap;LinkedHashMap;ArrayList;HashSet
+Definition of lambda expressions in Java?;Anonymous functions;Fixed parameter methods;Global variable declaration;Exception handling;Anonymous functions
+In Java, what is the purpose of the assert keyword?;It is used to create custom exceptions.;It is used to perform a bitwise AND operation.;It is used to validate assumptions in code.;It is used to define a constant value.;It is used to validate assumptions in code.
+Which of the following is a type of polymorphism in Java Programming?;Multiple polymorphism;Compile time polymorphism;Multilevel polymorphism;Execution time polymorphism;Compile time polymorphism
+
+
+
+
